@@ -1,0 +1,7 @@
+C:\Users\dron-\OneDrive\Desktop\6.1_Исходники_Модуль_7\Homework_7_Dovbeshko_AS\bin\Debug\Homework_7_Dovbeshko_AS.exe.config
+C:\Users\dron-\OneDrive\Desktop\6.1_Исходники_Модуль_7\Homework_7_Dovbeshko_AS\bin\Debug\Homework_7_Dovbeshko_AS.exe
+C:\Users\dron-\OneDrive\Desktop\6.1_Исходники_Модуль_7\Homework_7_Dovbeshko_AS\bin\Debug\Homework_7_Dovbeshko_AS.pdb
+C:\Users\dron-\OneDrive\Desktop\6.1_Исходники_Модуль_7\Homework_7_Dovbeshko_AS\obj\Debug\Homework_7_Dovbeshko_AS.csproj.CoreCompileInputs.cache
+C:\Users\dron-\OneDrive\Desktop\6.1_Исходники_Модуль_7\Homework_7_Dovbeshko_AS\obj\Debug\Homework_7_Dovbeshko_AS.exe
+C:\Users\dron-\OneDrive\Desktop\6.1_Исходники_Модуль_7\Homework_7_Dovbeshko_AS\obj\Debug\Homework_7_Dovbeshko_AS.pdb
+C:\Users\dron-\OneDrive\Desktop\6.1_Исходники_Модуль_7\Homework_7_Dovbeshko_AS\obj\Debug\Homework_7_Dovbeshko_AS.csproj.AssemblyReference.cache

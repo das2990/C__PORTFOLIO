@@ -1,0 +1,7 @@
+C:\Users\dron-\OneDrive\Desktop\Daily_planner\bin\Debug\Homework_7_Dovbeshko_AS.exe.config
+C:\Users\dron-\OneDrive\Desktop\Daily_planner\bin\Debug\Homework_7_Dovbeshko_AS.exe
+C:\Users\dron-\OneDrive\Desktop\Daily_planner\bin\Debug\Homework_7_Dovbeshko_AS.pdb
+C:\Users\dron-\OneDrive\Desktop\Daily_planner\obj\Debug\Daily_planner.csproj.AssemblyReference.cache
+C:\Users\dron-\OneDrive\Desktop\Daily_planner\obj\Debug\Daily_planner.csproj.CoreCompileInputs.cache
+C:\Users\dron-\OneDrive\Desktop\Daily_planner\obj\Debug\Homework_7_Dovbeshko_AS.exe
+C:\Users\dron-\OneDrive\Desktop\Daily_planner\obj\Debug\Homework_7_Dovbeshko_AS.pdb
