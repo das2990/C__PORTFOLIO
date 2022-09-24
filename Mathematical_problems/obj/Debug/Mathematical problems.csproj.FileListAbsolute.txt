@@ -1,0 +1,6 @@
+C:\Users\dron-\OneDrive\Desktop\Mathematical problems\obj\Debug\Mathematical problems.csproj.CoreCompileInputs.cache
+C:\Users\dron-\OneDrive\Desktop\Mathematical problems\obj\Debug\homework_5_Dovbeshko_AS.exe
+C:\Users\dron-\OneDrive\Desktop\Mathematical problems\obj\Debug\homework_5_Dovbeshko_AS.pdb
+C:\Users\dron-\OneDrive\Desktop\Mathematical problems\bin\Debug\homework_5_Dovbeshko_AS.exe.config
+C:\Users\dron-\OneDrive\Desktop\Mathematical problems\bin\Debug\homework_5_Dovbeshko_AS.exe
+C:\Users\dron-\OneDrive\Desktop\Mathematical problems\bin\Debug\homework_5_Dovbeshko_AS.pdb
